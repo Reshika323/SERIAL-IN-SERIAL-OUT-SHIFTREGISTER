@@ -46,7 +46,7 @@ Developed by:M RESHIKA  RegisterNumber: 24011491
 
 ![image](https://github.com/user-attachments/assets/1172f736-fc62-48f7-b9c1-46ab1308aed7)
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAMS FOR SISO Shift Register**
 
 ![image](https://github.com/user-attachments/assets/53105229-2843-4c76-9a9b-610bc167edee)
 
